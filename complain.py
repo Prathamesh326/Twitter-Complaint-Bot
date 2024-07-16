@@ -5,8 +5,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-PROMISED_DOWN = 150
-PROMISED_UP = 10
+PROMISED_DOWN = 150     # change this according to your internet plan
+PROMISED_UP = 10        # change this according to your internet plan
 TWITTER_EMAIL = "_____ENTER YOUR OWN EMAIL_____"
 TWITTER_PASSWORD = "_____ENTER YOUR OWN PASSWORD_____"
 USERNAME = "_____ENTER YOUR OWN TWITTER USERNAME_____"
